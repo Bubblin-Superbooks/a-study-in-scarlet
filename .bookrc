@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "A Study in Scarlet",
-  "type": "text"
+  "type": "text",
+  "book_id": 458
 }
